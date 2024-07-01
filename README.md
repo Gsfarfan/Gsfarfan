@@ -1,4 +1,9 @@
-## Hi there 👋
+
+<h2>
+  <p align="center"> Backend Developer </p>
+  <p align="center"> Computer Science on Universidade Cruzeiro do Sul </p>
+</h2>
+
 <a href="https://app.daily.dev/gsfarfan"><img src="https://api.daily.dev/devcards/v2/oLGAS8w1CHFqP5ugeHSgf.png?type=default&r=4nv" width="356" alt="Gustavo Farfan's Dev Card"/></a>
 <!--
 **Gsfarfan/Gsfarfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
