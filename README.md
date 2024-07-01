@@ -10,3 +10,4 @@
 *   🌍  São Paulo - Guarulhos
 *   ✉️  Me manda um e-mail: [gustavofarfannn@gmail.com]
 *   🧠  Entusiasta Backend!
+*   🎸  Musico nas horas vagas
