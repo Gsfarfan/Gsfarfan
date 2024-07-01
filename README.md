@@ -29,6 +29,7 @@
 </a>
 
   </div>
+  
 **Linguagens e ferramentas:**  
 
 <p align="left">
