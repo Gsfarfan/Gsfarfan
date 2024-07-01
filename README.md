@@ -16,7 +16,19 @@
 *   🎯  Focado no trabalho 
 *   🎸  Musico nas horas vagas
 *   ✉️  Me manda um e-mail: [gustavofarfannn@gmail.com]
+
+**Caso queira me conhecer melhor, fico a disposição!**  
+<div align="left"> 
   
+<a href="https://www.instagram.com/gsfarfann/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+</a> 
+
+<a href="www.linkedin.com/in/gustavofarfannn" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
+</a>
+
+  </div>
 **Linguagens e ferramentas:**  
 
 <p align="left">
