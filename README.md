@@ -13,9 +13,8 @@
  
 *    📍  Guarulhos - Sp 
 *   🧠  Entusiasta em Frontend
-*   🎯  Focado no trabalho 
+*   🎯  Focado no trabalho e estudos
 *   🎸  Musico nas horas vagas
-*   ✉️  Me manda um e-mail: [gustavofarfannn@gmail.com]
 
 **Caso queira me conhecer melhor, fico a disposição!**  
 <div align="left"> 
