@@ -3,18 +3,19 @@
 </h1>
 
 <h2>
-  <p align="center"> Desenvolvedor FullStack</p>
+  <p align="center"> Desenvolvedor FullStack </p>
   <p align="center"> Ciência da computação na Universidade Cruzeiro do Sul </p>
 </h2>
 
 <a href="https://app.daily.dev/gsfarfan"><img align="right" src="https://api.daily.dev/devcards/v2/oLGAS8w1CHFqP5ugeHSgf.png?type=default&r=4nv" width="356" alt="Gustavo Farfan's Dev Card"/></a>
 
-<h2 align="center">Um pouco mais sobre mim</h2>
-
-*   🌍  São Paulo - Guarulhos
-*   ✉️  Me manda um e-mail: [gustavofarfannn@gmail.com]
-*   🧠  Entusiasta Backend!
+<h2 align="center">Um pouco mais sobre mim: </h2>
+ 
+*    📍  Guarulhos - Sp 
+*   🧠  Entusiasta em Frontend
+*   🎯  Focado no trabalho 
 *   🎸  Musico nas horas vagas
+*   ✉️  Me manda um e-mail: [gustavofarfannn@gmail.com]
   
 **Linguagens e ferramentas:**  
 
