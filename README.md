@@ -1,6 +1,6 @@
-<h2>
+<h1>
   <p align="center"> Olá me chamo Gustavo Farfan </p>
-</h2>
+</h1>
 
 <h2>
   <p align="center"> Desenvolvedor FullStack</p>
