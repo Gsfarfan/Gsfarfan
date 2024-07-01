@@ -24,8 +24,8 @@
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" />
 </a>
 
-<a href="https://www.instagram.com/gsfarfann/" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+<a href="https://discordapp.com/users/734733946209828874" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/3fc3595593bc992e6febba6580d6c9571f5e625f/public/icons/socials/discord-dark.svg" width="32" height="32" />
 </a> 
 
   </div>
