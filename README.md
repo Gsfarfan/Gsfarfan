@@ -1,21 +1,12 @@
-
 <h2>
   <p align="center"> Backend Developer </p>
   <p align="center"> Computer Science on Universidade Cruzeiro do Sul </p>
 </h2>
 
-<a href="https://app.daily.dev/gsfarfan"><img src="https://api.daily.dev/devcards/v2/oLGAS8w1CHFqP5ugeHSgf.png?type=default&r=4nv" width="356" alt="Gustavo Farfan's Dev Card"/></a>
-<!--
-**Gsfarfan/Gsfarfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://app.daily.dev/gsfarfan"><img align="right" src="https://api.daily.dev/devcards/v2/oLGAS8w1CHFqP5ugeHSgf.png?type=default&r=4nv" width="356" alt="Gustavo Farfan's Dev Card"/></a>
 
-Here are some ideas to get you started:
+<h2 align="center">Um pouco mais sobre mim</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  São Paulo - Guarulhos
+*   ✉️  Me manda um e-mail: [gustavofarfannn@gmail.com]
+*   🧠  Entusiasta Backend!
