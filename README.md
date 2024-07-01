@@ -1,6 +1,10 @@
 <h2>
-  <p align="center"> Backend Developer </p>
-  <p align="center"> Computer Science on Universidade Cruzeiro do Sul </p>
+  <p align="center"> Olá me chamo Gustavo Farfan </p>
+</h2>
+
+<h2>
+  <p align="center"> Desenvolvedor FullStack</p>
+  <p align="center"> Ciência da computação na Universidade Cruzeiro do Sul </p>
 </h2>
 
 <a href="https://app.daily.dev/gsfarfan"><img align="right" src="https://api.daily.dev/devcards/v2/oLGAS8w1CHFqP5ugeHSgf.png?type=default&r=4nv" width="356" alt="Gustavo Farfan's Dev Card"/></a>
