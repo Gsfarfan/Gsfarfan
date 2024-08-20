@@ -49,6 +49,7 @@
   <h2>Projetos:</h2>
   <ul>
   <li>Página de Filmes: <a href="https://gsfarfan.github.io/">Umbrella Filmes</a></li>
+    <li>Página de Compras: <a href="https://gsfarfan.github.io/Gsfarfan.github.io-mercado//">Umbrella Filmes</a></li>
   </ul>
 </p>
 
