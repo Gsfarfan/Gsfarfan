@@ -3,7 +3,7 @@
 </h1>
 
 <h2>
-  <p align="center"> Desenvolvedor FullStack </p>
+  <p align="center"> Desenvolvedor Junior </p>
   <p align="center"> Ciência da computação na Universidade Cruzeiro do Sul </p>
 </h2>
 
